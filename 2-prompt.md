@@ -1,6 +1,7 @@
 Your task is to rewrite the given cloud platform technical documentation page to be task oriented or scenario based according to the instructions below:
 
 <document>
+
 # Amazon EKS cluster endpoint access control<a name="cluster-endpoint"></a>
 
 This topic helps you to enable private access for your Amazon EKS cluster's Kubernetes API server endpoint and limit, or completely disable, public access from the internet\.

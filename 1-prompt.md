@@ -76,15 +76,6 @@ To do this task, you should:
 5. Rewrite the content following writing for the web best practices. 
 
 In the context of the scenario-driven content goal, a scenario is the purpose of the page. It’s the thing you want the customer to understand or know how to do after they visit your page. Some synonyms for this are outcomes, jobs, or use cases. A scenario is not a tutorial or procedure, and it’s not a type of content. We consider scenario-based content a reframe of feature-based content. Instead of leading with the feature, lead with what the customer would use the feature for. Content should be written from the customer’s point of view and address their specific needs. 
-
-Old title: Vertical Pod Autoscaler 
-New title: Right size pod resources with Vertical Pod Autoscaler
-
-Old title: Horizontal Pod Autoscaler 
-New title: Scale pod deployments based on usage with Horizontal Pod Autoscaler 
-
-Old title: Network load balancing on Amazon EKS 
-New title: Expose a cluster service with a network load balancer 
 </instructions>
 
 

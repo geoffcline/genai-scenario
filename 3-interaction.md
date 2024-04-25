@@ -91,3 +91,5 @@ When public endpoint access is disabled, you must connect from within the VPC or
 - **AWS Cloud9 IDE** - Create an IDE environment in the VPC. Ensure the control plane security group allows port 443 ingress from the IDE.
 
 When using AWS credentials to configure `kubectl`, grant permissions to the IAM principal in the cluster's RBAC configuration before removing public access.
+
+</claude>

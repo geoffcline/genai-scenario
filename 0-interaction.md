@@ -214,6 +214,7 @@ can you give me an alternate example keeping closer to the content of the origin
 </geoffrey>
 
 <claude>
+
 # Securing Access to the Amazon EKS API Server
 
 This guide demonstrates how to enhance the security of your Amazon EKS cluster by configuring private access to the Kubernetes API server and restricting or disabling public access. You'll learn how to modify the cluster endpoint access settings and explore various methods to securely connect to the API server from within your VPC or connected networks.

@@ -1,6 +1,7 @@
 Your task is to rewrite the given cloud platform technical documentation page to be task oriented or scenario based according to the instructions below:
 
 <document>
+
 # Amazon EKS cluster endpoint access control<a name="cluster-endpoint"></a>
 
 This topic helps you to enable private access for your Amazon EKS cluster's Kubernetes API server endpoint and limit, or completely disable, public access from the internet\.
@@ -157,7 +158,7 @@ You are a technical writer for a cloud platform with a software engineering back
 To do this task, you should: 
 1. Review and summarize the content in the page. Put in context of both the AWS service the page is written for, and the associated AWS services or open source software. 
 2. Evaluate why a user might need the information on this page. 
-3. List 3 different task-oriented titles for the page. 
+3. List 3 different task-oriented titles for the page. Do not proceed with doing the rewrite until instructed. 
 
 In the context of the scenario-driven content goal, a scenario is the purpose of the page. It’s the thing you want the customer to understand or know how to do after they visit your page. Some synonyms for this are outcomes, jobs, or use cases. A scenario is not a tutorial or procedure, and it’s not a type of content. We consider scenario-based content a reframe of feature-based content. Instead of leading with the feature, lead with what the customer would use the feature for. Content should be written from the customer’s point of view and address their specific needs. 
 
