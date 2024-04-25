@@ -1,5 +1,6 @@
 <geoffrey>
 <document>
+
 # Amazon EKS cluster endpoint access control<a name="cluster-endpoint"></a>
 
 This topic helps you to enable private access for your Amazon EKS cluster's Kubernetes API server endpoint and limit, or completely disable, public access from the internet\.
@@ -148,6 +149,7 @@ When you configure `kubectl` for your bastion host, be sure to use AWS credentia
 **AWS Cloud9 IDE**  
 AWS Cloud9 is a cloud\-based integrated development environment \(IDE\) that lets you write, run, and debug your code with just a browser\. You can create an AWS Cloud9 IDE in your cluster's VPC and use the IDE to communicate with your cluster\. For more information, see [Creating an environment in AWS Cloud9](https://docs.aws.amazon.com/cloud9/latest/user-guide/create-environment.html)\. You must ensure that your Amazon EKS control plane security group contains rules to allow ingress traffic on port 443 from your IDE security group\. For more information, see [Amazon EKS security group requirements and considerations](sec-group-reqs.md)\.  
 When you configure `kubectl` for your AWS Cloud9 IDE, be sure to use AWS credentials that are already mapped to your cluster's RBAC configuration, or add the IAM principal that your IDE will use to the RBAC configuration before you remove endpoint public access\. For more information, see [Grant access to Kubernetes APIs ](grant-k8s-access.md) and [Unauthorized or access denied \(`kubectl`\)](troubleshooting.md#unauthorized)\.
+</document>
 
 Rewrite this page in the AWS Documentation to be oriented around a single procedure/task/scenario. Use the style of the AWS Docs. You are a tech writer experience with software engineering and cloud platforms.
 </geoffrey>
