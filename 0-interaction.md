@@ -155,6 +155,7 @@ Rewrite this page in the AWS Documentation to be oriented around a single proced
 </geoffrey>
 
 <claude>
+
 # Securing Access to the EKS API Server from a Bastion Host
 
 This guide will walk you through the process of setting up secure access to your Amazon EKS cluster's Kubernetes API server using a bastion host in an Amazon EC2 instance. By following these steps, you will disable public access to the API server and enable private access from within your VPC.
